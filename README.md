@@ -42,7 +42,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:ksaak33@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**languages and tools:**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scientist3&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirsofi&theme=blue-green)
@@ -57,10 +57,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-**Most Used Languages**
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientist3&theme=blue-green)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
