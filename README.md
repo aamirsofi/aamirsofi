@@ -25,14 +25,14 @@ Here are some ideas to get you started:
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/scientist/">
-  <img align="left" alt="Aamir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Aamir's LinkedIn" width="22px" src="https://raw.githubusercontent.com/scientist3/scientist3/main/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aamirsofi)
 
 <br />
 
-Hi, i'm [Aamir Bashir](https://nasdev.in/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Aamir Bashir](https://nasdev.in/), a passionate self-taught full-stack web developer and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -40,9 +40,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 <!-- - 💼 any freelance work? do reach, [email](mailto:ksaak33@gmail.com) :) -->
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 
-**languages and tools:**
+**Languages and tools:**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scientist3&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirsofi&theme=blue-green)
@@ -58,7 +58,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
@@ -72,7 +72,7 @@ Groovy       2 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/scientist3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -85,7 +85,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 My Github Stats
 - Profile 1:
 ![](https://github-readme-stats.vercel.app/api?username=scientist3&show_icons=true)
 - Profile 2:
