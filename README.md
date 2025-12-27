@@ -112,20 +112,18 @@ const aamir = {
   
 **Account 1: @aamirsofi**
   
-![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamirsofi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aamirsofi&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamirsofi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   
-![Top Langs - aamirsofi](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirsofi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-  
-![GitHub Streak - aamirsofi](https://github-readme-streak-stats.demolab.com/?user=aamirsofi&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.demolab.com/?user=aamirsofi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 **Account 2: @scientist3**
 
-![Scientist3's GitHub stats](https://github-readme-stats.vercel.app/api?username=scientist3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=scientist3&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scientist3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-![Top Langs - scientist3](https://github-readme-stats.vercel.app/api/top-langs/?username=scientist3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak - scientist3](https://github-readme-streak-stats.demolab.com/?user=scientist3&theme=tokyonight&hide_border=true)
-
+<img src="https://github-readme-streak-stats.demolab.com/?user=scientist3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
 </div>
 
 ---
